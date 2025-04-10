@@ -1,0 +1,5 @@
+matrix_fsm_project/
+├── matrix_fsm.v         # Main FSM Verilog module
+├── tb_matrix_fsm.v      # Testbench
+├── .gitignore           # Ignore dump.vcd during commit
+├── README.md            # Project documentation
